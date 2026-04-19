@@ -45,7 +45,7 @@ Your original files are not deleted, renamed, moved, or overwritten. You may man
 * **Dry run mode** — lets you preview results safely
 * **CSV report** — logs every decision with a reason
 * **Cross-format awareness** — for example, a `.jpg` and `.png` version of the same image can still match
-* **Re-run anytime** - deletes the created output folder and remakes it if you ever rerun the code on the same folder.
+* **Re-run anytime** — deletes the created output folder and remakes it if you ever rerun the code on the same folder.
 
 ---
 
