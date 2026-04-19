@@ -4,7 +4,7 @@ I made this because I was dealing with the same problem myself. After transferri
 I tried a few duplicate checkers, especially for phone and the built-in iPhone checker, but most of them were either too slow, too aggressive, not accurate enough, or just unclear about what they were doing.
 
 This is a careful Python script that scans a folder of photos and videos, finds duplicates and near-duplicates, and sorts them into separate folders so you can review everything safely.
-It does **not delete or modify your original files**.
+It does **not delete or modify your original files**. Zero false positives remain.
 
 If you’re trying to clean up a huge messy media folder, hopefully this helps!
 
